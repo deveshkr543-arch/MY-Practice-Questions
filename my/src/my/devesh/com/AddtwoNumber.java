@@ -1,6 +1,6 @@
 package my.devesh.com;
 //import java.util.*;
-public class devesh1 {
+public class AddtwoNumber {
 	public static void main(String[] args){
 		//int a,b,c;
 		int a=10,b=20,c;
